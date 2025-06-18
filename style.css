@@ -88,7 +88,7 @@ header h2 {
 footer {
     color: var(--cor5);
     width: auto;
-    background-color:color;
+    background-color:var(--cor3) ;
     text-align: center;
 }
 
@@ -160,4 +160,8 @@ div#video {
     background-color:var(--cor5);
     padding: 10px 20px;
     text-align: center;
+}
+
+.despedida{
+    margin: 0px;
 }
